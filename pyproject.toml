@@ -11,14 +11,13 @@ dependencies = [
     "torch (>=2.7.0,<3.0.0)",
     "numpy (>=2.2.5,<3.0.0)",
     "transformers (>=4.51.3,<5.0.0)",
-    "telestes @ file:///home/aethrvmn/Projects/apotheke/telestes",
+    "telestes (>=0.1.0,<0.2.0)",
 ]
 
 [tool.poetry]
 packages = [{include = "alectors", from = "src"}]
 
 [tool.poetry.dependencies]
-telestes = {develop = true}
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
