@@ -1,0 +1,24 @@
+[project]
+name = "alectors"
+version = "2.0.0"
+description = ""
+authors = [
+    {name = "Vasilis Valatsos",email = "aethrvmn@apotheke.earth"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch (>=2.7.0,<3.0.0)",
+    "numpy (>=2.2.5,<3.0.0)",
+    "transformers (>=4.51.3,<5.0.0)",
+    "telestes @ file:///home/aethrvmn/Projects/apotheke/telestes",
+]
+
+[tool.poetry]
+packages = [{include = "alectors", from = "src"}]
+
+[tool.poetry.dependencies]
+telestes = {develop = true}
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
