@@ -4,7 +4,7 @@
 *alectors* is a library providing transformer-based rl agents for nlp tasks, that is extremely customizable, but also comes with sane defaults.
 
 >source code: [erga.apotheke.earth/aethrvmn/alectors](https://erga.apotheke.earth/aethrvmn/alectors)  
-> license: [Don't Be Evil License 1.1 (DBEL 1.1)](https://apotheke.earth/license  
+> license: [Don't Be Evil License 1.1 (DBEL 1.1)](https://apotheke.earth/license)  
 > [read the full license here](https://apotheke.earth/license)  
 
 ## Why "alectors"?
