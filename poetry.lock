@@ -952,14 +952,14 @@ dev = ["hypothesis (>=6.70.0)", "pytest (>=7.1.0)"]
 
 [[package]]
 name = "telestes"
-version = "0.1.1"
+version = "0.1.2"
 description = "transformer-based reinforcment learning agents."
 optional = false
 python-versions = ">=3.13"
 groups = ["main"]
 files = [
-    {file = "telestes-0.1.1-py3-none-any.whl", hash = "sha256:74cfc8198851e70bd3c0fd995ddbc4822e96b77ae83888e151e9bcb4cf2f0a15"},
-    {file = "telestes-0.1.1.tar.gz", hash = "sha256:f0c36421155c4bbe82ff02900aacd211918c6d9081e1051e1fbb3c7d860f6232"},
+    {file = "telestes-0.1.2-py3-none-any.whl", hash = "sha256:8b3c8ef6c60aedd08e506c840ebea2051af2dcf40e4dda9af93626c653adf85c"},
+    {file = "telestes-0.1.2.tar.gz", hash = "sha256:ea9fe53c8594872ea74f8260529b8d6d602cf72ff328d8ed244259a7df7f98bb"},
 ]
 
 [package.dependencies]
@@ -1215,4 +1215,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "9edb4b28ee614826dce4bd02d306d751b1b6d45f9e7feec7dc07e085bad16c37"
+content-hash = "27a27a9e5804afe5fa748d84c05d25290b468decb8c5fb5d32b870216809d1bb"
