@@ -94,6 +94,7 @@ class Agent(PPOAgent):
         )
 
 
+    @torch.no_grad()
     def choose_action(
         self,
         state: str
