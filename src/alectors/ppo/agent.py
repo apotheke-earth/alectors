@@ -21,7 +21,7 @@ class Agent(PPOAgent):
         actor_coefficient: float = 1.,
         actor_clip_grad_norm: float = None,
         critic_ridge: float = 0,
-        critic_coefficient: float = 1.,
+        critic_coefficient: float = .5,
         critic_clip_grad_norm: float = None,
         name: str = 'alector',
         verbose: bool = False,
