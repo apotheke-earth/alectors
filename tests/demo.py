@@ -13,7 +13,7 @@ hparams = dict(
         ),
         linear = dict(
             layers = [100,20],
-            activation_fn=nn.ReLU
+            activation_function=nn.ReLU
         )
         
     ),
