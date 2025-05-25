@@ -1,6 +1,6 @@
 [project]
 name = "alectors"
-version = "2.0.1"
+version = "2.0.2"
 description = "transformer-based rl agents for nlp tasks"
 authors = [
     {name = "Vasilis Valatsos",email = "aethrvmn@apotheke.earth"}
