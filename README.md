@@ -9,7 +9,8 @@
 
 The word lector has deep etymological roots in language. Derived from the Latin *legere* ("to read"), it originally referred to someone who read aloud, to an audience, students, or even in religious ceremonies.  
 The term nowdays survives mostly in an academic setting, where a lecturer is typically tied to teaching, or discussing ideas with an audience. Typical modern uses of the word are "lecturer" in English, "λέκτορας" in Greek, and "lektor" in Polish.  
-However, adding the prefix α- changes the word's meaning entirely. An *alector* (*ἀλέκτωρ*) means "cock" (rooster) in Greek. This juxtaposition s very funny, hence the name.
+
+Adding the prefix α- changes the word's meaning. An *alector* (*ἀλέκτωρ*) means "cock" (rooster) in Greek. This juxtaposition is funny, hence the name.
 
 ## Description
 
